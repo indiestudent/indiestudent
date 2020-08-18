@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Reflections on life, nature and 42.
+- 💬 Ask me about One Piece!
+
 <!--
 **indiestudent/indiestudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
